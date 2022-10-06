@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-daf1180e","path":"/categories/fenxiang/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};

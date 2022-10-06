@@ -1,0 +1,1 @@
+import{_ as o,r as n,o as r,c as t,a}from"./app.9c0d67b2.js";const c={};function _(s,d){const e=n("dayWord");return r(),t("div",null,[a(e)])}var m=o(c,[["render",_],["__file","index.html.vue"]]);export{m as default};

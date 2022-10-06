@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0cff9ee6","path":"/tags/GitHub/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7b3dd0d4","path":"/docs/JavaScript/ChromeV8Engine.html","title":"Chrome v8\u5F15\u64CE\u5206\u6790","lang":"en-US","frontmatter":{"title":"Chrome v8\u5F15\u64CE\u5206\u6790","date":"2022/09/03"},"excerpt":"","headers":[],"git":{},"filePathRelative":"docs/JavaScript/ChromeV8Engine.md"}');export{e as data};
